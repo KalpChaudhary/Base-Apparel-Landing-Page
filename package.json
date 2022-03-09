@@ -2,9 +2,9 @@
   "name": "base-apparel",
   "version": "1.0.0",
   "description": "Base Apparel landing page(Frontend mentor task)",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Kalp Chaudhary",
   "license": "ISC",
